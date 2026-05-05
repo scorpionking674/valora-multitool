@@ -1,0 +1,7 @@
+# Keep this staging repo release-only.
+*
+
+!.gitignore
+!README.md
+!release-files/
+!release-files/*.exe
